@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Asha Mishra — a Senior Android Developer with 8+ years of experience building scalable, secure, and intuitive mobile applications.
 
-<!--
-**buildwithasha/buildwithasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I specialize in:
+- Kotlin, Jetpack Compose, MVVM, Clean Architecture
+- Secure SDKs, Payment Modules, Biometric & 2FA authentication
+- Firebase, REST APIs, Room DB, WorkManager
+- Mentoring developers and leading Agile delivery
 
-Here are some ideas to get you started:
+💼 I've led Android development for enterprise apps in finance, banking, and publishing across Singapore, Germany, and India — including projects for UOB, Visa, and DB Bahn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm currently exploring:
+- Generative AI integration into mobile workflows
+- Agile project leadership
+- Freelancing and mentoring on Upwork and beyond
+
+🔗 Check out my featured GitHub projects below — and feel free to connect!
